@@ -18,5 +18,4 @@ Una aplicación web para organizar el juego del Amigo Secreto de manera sencilla
 
 1. Clona este repositorio:
 
-   [```bash
    git clone https://github.com/GGustavoB/AmigoSecreto.git
